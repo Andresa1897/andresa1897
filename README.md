@@ -28,28 +28,33 @@
   - *Trying to solve the challenge of smurfing, account trading, and cheating in the video game world*
   - *GGSWP - Site to wager in your favorite games 2017-2019*
 
-## 💻 Technical Skills
+### 👨‍🎓 Academic Work
+- **Research Papers**
+  - [Paper 1](link-to-paper1)
+  - [Paper 2](link-to-paper2)
+- **Presentations**
+  - [Presentation 1](link-to-presentation1)
+  - [Presentation 2](link-to-presentation2)
+- **Workshops**
+  - [Workshop 1](link-to-workshop1)
+  - [Workshop 2](link-to-workshop2)
+- **Projects**
+  - [Academic Project 1](link-to-academic-project1)
+  - [Academic Project 2](link-to-academic-project2)
+
+### 💻 Technical Skills
 - **Cybersecurity Scripts**
   - [Cybersecurity Script 1](link-to-script1)
   - [Cybersecurity Script 2](link-to-script2)
-- **Python Projects**
-  - [Python Project 1](link-to-project1)
-  - [Python Project 2](link-to-project2)
-- **InfoSec Resources/Cheat Sheets**
-  - [InfoSec Resource 1](link-to-resource1)
-  - [InfoSec Resource 2](link-to-resource2)
-- **PowerShell Scripts**
-  - [PowerShell Script 1](link-to-script1)
-  - [PowerShell Script 2](link-to-script2)
-- **Bash Scripts**
-  - [Bash Script 1](link-to-script1)
-  - [Bash Script 2](link-to-script2)
+- **Python Scripts**
+  - [Python Script 1](link-to-python-script1)
+  - [Python Script 2](link-to-python-script2)
 - **AI Projects**
-  - [AI Project 1](link-to-project1)
-  - [AI Project 2](link-to-project2)
+  - [AI Project 1](link-to-ai-project1)
+  - [AI Project 2](link-to-ai-project2)
 - **Data Visualization Projects**
-  - [Data Visualization Project 1](link-to-project1)
-  - [Data Visualization Project 2](link-to-project2)
+  - [Data Visualization Project 1](link-to-dataviz-project1)
+  - [Data Visualization Project 2](link-to-dataviz-project2)
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/andres-alvarez-92a931145/)
