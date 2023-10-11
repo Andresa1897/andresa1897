@@ -16,7 +16,7 @@
 - **CompTIA Security+**
 - **CompTIA A+**
 - **CompTIA IT Fundamentals (ITF+)**
-- [Credly profile](https://www.credly.com/earner/earned)
+- [Credly profile](https://www.credly.com/users/andres-alvarez.173c1f7c/badges)
 
 ## 💼 Professional Experience
 - **Actively pursuing an opportunity** 
