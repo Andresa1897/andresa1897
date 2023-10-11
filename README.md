@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andres also known as Andy! 👋 </h1>
+<h1>Hi, I'm Andres, also known as Andy! 👋 </h1>
 
 <h2>👨‍💻 InfoSec Professional, Entrepeneur and Academic </h2>
 
@@ -16,6 +16,7 @@
 - **CompTIA Security+**
 - **CompTIA A+**
 - **CompTIA IT Fundamentals (ITF+)**
+- [Credly profile](https://www.credly.com/earner/earned)
 
 ## 💼 Professional Experience
 - **Actively pursuing an opportunity** 
@@ -30,31 +31,26 @@
 
 ### 👨‍🎓 Academic Work
 - **Research Papers**
-  - [Paper 1](link-to-paper1)
-  - [Paper 2](link-to-paper2)
-- **Presentations**
-  - [Presentation 1](link-to-presentation1)
-  - [Presentation 2](link-to-presentation2)
-- **Workshops**
-  - [Workshop 1](link-to-workshop1)
-  - [Workshop 2](link-to-workshop2)
+  - [Diamond Model and Policy Assessment - Kaseya Ransomware](https://github.com/Andresa1897/AcademicPapers/blob/main/Diamond%20model%20and%20Policy%20assessment%20-%20Kaseya%20Ransomware.pdf)
+  - [The Role of Cyber Threat in the International Relations and Affairs Arena: Understanding the sensitivity of access, attribution and intent of the Cyber actor](https://github.com/Andresa1897/AcademicPapers/blob/main/The%20Role%20of%20Cyber%20Threat%20in%20the%20International%20Relations%20and%20Affairs%20Arena.pdf)
+- **IC-CAE**
+  - [Repository with an explanation of work and samples](https://github.com/Andresa1897/IC-CAE)
 - **Projects**
-  - [Academic Project 1](link-to-academic-project1)
-  - [Academic Project 2](link-to-academic-project2)
+  - [Network Design project](https://github.com/Andresa1897/NetworkDesignProject)
+  - [Executive Proposal for Server Virtualization effort](https://github.com/Andresa1897/ExecutiveProposal)
+  - [Full IoT solution proposal](https://github.com/Andresa1897/IoTProductProposal)
 
 ### 💻 Technical Skills
 - **Cybersecurity Scripts**
-  - [Cybersecurity Script 1](link-to-script1)
-  - [Cybersecurity Script 2](link-to-script2)
-- **Python Scripts**
-  - [Python Script 1](link-to-python-script1)
-  - [Python Script 2](link-to-python-script2)
-- **AI Projects**
-  - [AI Project 1](link-to-ai-project1)
-  - [AI Project 2](link-to-ai-project2)
-- **Data Visualization Projects**
-  - [Data Visualization Project 1](link-to-dataviz-project1)
-  - [Data Visualization Project 2](link-to-dataviz-project2)
+  - [Visualize connection from .pcap file capture](https://github.com/Andresa1897/PcapFileCaptureVisualization)
+  - [Automate Network Scans with NMAP using Python - Output saved to JSON format file for consumption](https://github.com/Andresa1897/AutomatedNetworkScansNMAP)
+- **Other Python Scripts**
+  - [File encryptor](https://github.com/Andresa1897/FileEncryptor)
+  - [Keylogger using Discord as C2](https://github.com/Andresa1897/KeyloggerWithDiscordAsC2)
+  - [Password Generator/Manager](https://github.com/Andresa1897/PasswordManager-Vault)
+ 
+## 📚 Cyber Resources
+-**Coming Soon**
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/andres-alvarez-92a931145/)
