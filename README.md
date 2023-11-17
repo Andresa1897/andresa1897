@@ -64,4 +64,5 @@
   - *Recommendations: Principles (Ray Dalio), Good to Great (James Collins), Meditations (Marcus Aurelius, any edition)*
 - *🎮 Competitive Gamer*
   - *Played at the highest level in professional video games in the Call of Duty franchise (2014-2017)*
+  - *Top 25 MX Halo Championship Series 2022*
   - *Check out my gameplay at the NA Championship for Advanced Warfare: [YT Video](https://www.youtube.com/watch?v=ewTRlgSEv7w)*
