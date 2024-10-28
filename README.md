@@ -16,7 +16,7 @@
 - **CompTIA Security+**
 - **CompTIA A+**
 - **CompTIA IT Fundamentals (ITF+)**
-- - **CMMC CCP**
+- **CMMC CCP**
 - [Credly profile](https://www.credly.com/users/andres-alvarez.173c1f7c/badges)
 
 ## 💼 Professional Experience
