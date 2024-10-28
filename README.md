@@ -16,15 +16,16 @@
 - **CompTIA Security+**
 - **CompTIA A+**
 - **CompTIA IT Fundamentals (ITF+)**
+- - **CMMC CCP**
 - [Credly profile](https://www.credly.com/users/andres-alvarez.173c1f7c/badges)
 
 ## 💼 Professional Experience
-- **Actively pursuing an opportunity** 
+- **Cyber Risk, Governance, and Compliance Team Lead** 
 - **Cyber Risk Specialist** 
 - **Information Security Engineer**
 
 ## 🌱 Current Learning and Projects
-- **Pursuing Master's Degree** 
+- **Pursuing Master's Degree in Cybersecurity At Georgia Tech** 
 - **Entrepreneurship Ventures**
   - *Trying to solve the challenge of smurfing, account trading, and cheating in the video game world*
   - *GGSWP - Site to wager in your favorite games 2017-2019*
